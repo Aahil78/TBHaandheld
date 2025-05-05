@@ -1,7 +1,7 @@
 # TBHaandheld
 An ESP8266 based gaming handheld!
 
-#2 Features:
+# Features:
 
 - I/O Header to add extensions and sensors
 
